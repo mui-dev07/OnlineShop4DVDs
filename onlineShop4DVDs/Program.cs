@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using onlineShop4DVDs.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var provider = builder.Services.BuildServiceProvider();
+var config = provider.GetRequiredService<IConfiguration>();
+builder.Services.AddDbContext<Shop4DvdsContext>(item => item.UseSqlServer(config.GetConnectionString("dbcs")));
+
 
 var app = builder.Build();
 

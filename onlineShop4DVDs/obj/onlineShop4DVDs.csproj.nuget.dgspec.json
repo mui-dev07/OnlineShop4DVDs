@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj": {}
+    "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj": {
+    "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj",
+        "projectUniqueName": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj",
         "projectName": "onlineShop4DVDs",
-        "projectPath": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj",
+        "projectPath": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\onlineShop4DVDs\\obj\\",
+        "outputPath": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.4, )"

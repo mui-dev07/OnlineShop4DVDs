@@ -1,2019 +1,2019 @@
 {
   "Files": [
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\bootstrap.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\demo.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\demo.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\demo.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\demo.css.map",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\demo.css.map",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\demo.css.map"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\fonts.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\fonts.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\fonts.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\fonts.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\fonts.min.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\fonts.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\kaiadmin.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.css.map",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.css.map",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\kaiadmin.css.map"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\kaiadmin.min.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\kaiadmin.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\plugins.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.css.map",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.css.map",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\plugins.css.map"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\css\\plugins.min.css",
       "PackagePath": "staticwebassets\\AP-Assets\\css\\plugins.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\fontawesome\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.eot",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\summernote\\summernote.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.ttf",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\summernote\\summernote.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.woff",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\summernote\\summernote.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\fonts\\summernote\\summernote.woff2",
       "PackagePath": "staticwebassets\\AP-Assets\\fonts\\summernote\\summernote.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\arashmil.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\arashmil.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\arashmil.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\bg-404.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\bg-404.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\bg-404.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\blogpost.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\blogpost.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\blogpost.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\chadengle.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\chadengle.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\chadengle.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example1-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example1-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example1-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example1.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example1.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example1.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example10-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example10-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example10-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example10.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example10.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example10.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example11-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example11-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example11-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example11.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example11.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example11.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example12-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example12-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example12-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example12.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example12.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example12.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example2-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example2-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example2-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example2.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example2.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example2.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example3-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example3-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example3-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example3.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example3.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example3.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example4-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example4-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example4-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example4.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example4.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example4.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example5-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example5-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example5-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example5.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example5.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example5.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example6-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example6-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example6-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example6.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example6.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example6.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example7-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example7-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example7-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example7.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example7.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example7.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example8-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example8-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example8-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example8.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example8.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example8.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example9-300x300.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example9-300x300.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example9-300x300.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example9.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\example9.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\example9.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\logo.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo1.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo1.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\logo1.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo2.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logo2.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\logo2.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logoinvoice.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\logoinvoice.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\logoinvoice.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product1.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product10.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product10.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product10.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product11.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product11.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product11.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product12.jpeg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product12.jpeg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product12.jpeg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product2.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product3.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product4.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product5.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product5.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product5.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product6.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product6.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product6.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product7.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product7.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product7.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product8.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\examples\\product8.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\examples\\product8.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ad.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ad.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ad.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ae.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ae.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ae.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\af.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\af.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\af.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ag.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ag.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ag.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ai.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ai.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ai.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\al.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\al.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\al.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\am.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\am.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\am.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\an.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\an.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\an.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ao.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ao.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ao.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ar.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ar.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ar.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\as.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\as.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\as.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\at.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\at.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\at.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\au.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\au.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\au.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\aw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\aw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\aw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ax.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ax.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ax.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\az.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\az.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\az.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ba.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ba.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ba.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bb.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bb.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bb.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bd.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bd.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bd.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\be.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\be.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\be.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bi.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bi.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bi.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bj.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bj.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bj.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bo.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bo.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bo.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\br.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\br.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\br.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bs.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bs.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bs.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\by.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\by.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\by.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\bz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\bz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ca.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ca.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ca.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\catalonia.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\catalonia.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\catalonia.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cd.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cd.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cd.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ch.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ch.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ch.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ci.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ci.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ci.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ck.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ck.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ck.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\co.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\co.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\co.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cs.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cs.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cs.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cx.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cx.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cx.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cy.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cy.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cy.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\cz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\cz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\de.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\de.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\de.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dj.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dj.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\dj.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\dk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\dm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\do.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\do.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\do.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\dz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\dz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ec.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ec.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ec.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ee.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ee.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ee.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\eg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\eg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\eg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\eh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\eh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\eh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\england.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\england.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\england.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\er.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\er.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\er.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\es.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\es.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\es.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\et.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\et.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\et.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\europeanunion.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\europeanunion.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\europeanunion.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fam.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fam.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fam.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fi.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fi.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fi.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fj.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fj.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fj.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fo.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fo.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fo.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\fr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\fr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ga.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ga.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ga.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gb.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gb.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gb.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gd.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gd.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gd.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ge.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ge.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ge.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gi.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gi.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gi.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gp.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gp.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gp.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gq.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gq.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gq.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gs.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gs.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gs.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gy.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\gy.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\gy.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\hk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\hm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\hn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\hr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ht.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ht.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ht.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\hu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\hu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\id.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\id.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\id.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ie.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ie.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ie.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\il.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\il.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\il.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\in.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\in.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\in.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\io.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\io.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\io.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\iq.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\iq.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\iq.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ir.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ir.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ir.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\is.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\is.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\is.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\it.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\it.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\it.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\jm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jo.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jo.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\jo.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jp.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\jp.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\jp.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ke.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ke.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ke.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ki.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ki.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ki.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\km.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\km.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\km.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kp.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kp.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kp.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ky.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ky.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ky.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\kz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\kz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\la.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\la.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\la.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lb.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lb.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lb.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\li.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\li.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\li.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ls.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ls.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ls.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\lv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\lv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ly.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ly.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ly.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ma.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ma.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ma.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\md.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\md.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\md.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\me.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\me.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\me.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ml.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ml.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ml.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mo.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mo.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mo.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mp.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mp.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mp.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mq.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mq.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mq.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ms.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ms.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ms.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mx.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mx.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mx.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\my.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\my.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\my.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\mz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\mz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\na.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\na.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\na.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ne.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ne.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ne.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ng.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ng.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ng.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ni.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ni.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ni.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\no.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\no.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\no.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\np.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\np.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\np.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\nz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\nz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\om.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\om.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\om.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pa.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pa.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pa.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pe.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pe.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pe.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ph.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ph.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ph.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ps.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ps.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ps.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\pw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\pw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\py.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\py.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\py.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\qa.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\qa.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\qa.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\re.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\re.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\re.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\readme.txt",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\readme.txt",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\readme.txt"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ro.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ro.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ro.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\rs.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\rs.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\rs.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ru.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ru.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ru.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\rw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\rw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\rw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sa.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sa.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sa.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sb.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sb.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sb.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\scotland.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\scotland.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\scotland.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sd.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sd.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sd.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\se.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\se.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\se.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sh.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sh.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sh.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\si.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\si.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\si.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sj.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sj.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sj.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\so.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\so.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\so.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\st.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\st.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\st.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sy.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sy.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sy.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\sz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\sz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\td.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\td.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\td.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\th.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\th.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\th.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tj.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tj.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tj.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tk.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tk.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tk.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tl.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tl.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tl.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\to.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\to.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\to.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tr.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tr.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tr.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tv.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tv.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tv.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\tz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\tz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ua.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ua.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ua.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ug.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ug.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ug.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\um.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\um.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\um.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\us.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\us.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\us.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\uy.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\uy.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\uy.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\uz.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\uz.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\uz.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\va.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\va.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\va.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vc.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vc.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\vc.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ve.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ve.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ve.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vg.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vg.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\vg.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vi.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vi.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\vi.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vn.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vn.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\vn.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vu.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\vu.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\vu.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\wales.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\wales.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\wales.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\wf.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\wf.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\wf.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ws.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ws.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ws.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ye.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\ye.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\ye.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\yt.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\yt.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\yt.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\za.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\za.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\za.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\zm.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\zm.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\zm.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\zw.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\flags\\zw.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\flags\\zw.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\img-shadow.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\img-shadow.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\img-shadow.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\jm_denis.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\jm_denis.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\jm_denis.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo1.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo1.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo1.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo2.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo2.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo2.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo3.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo3.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo3.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo4.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo4.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo4.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo5.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo5.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo5.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo6.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo6.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo6.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo7.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo7.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo7.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo8.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo8.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo8.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo9.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\demo9.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\demo9.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.ico",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.ico",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\favicon.ico"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\favicon.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\favicon.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\favicon.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\icon.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\icon.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\icon.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\icon.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\icon.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\icon.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_dark.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_dark.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\logo_dark.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_dark.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_dark.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\logo_dark.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_documentation.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_documentation.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\logo_documentation.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_light.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_light.png",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\logo_light.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_light.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\kaiadmin\\logo_light.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\kaiadmin\\logo_light.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\logoproduct.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct2.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct2.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\logoproduct2.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct3.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\logoproduct3.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\logoproduct3.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\mlane.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\mlane.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\mlane.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\profile.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\profile.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\profile.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\profile2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\profile2.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\profile2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\sauro.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\sauro.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\sauro.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\talha.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\talha.jpg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\talha.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_Hello_qnas.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_Hello_qnas.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_Hello_qnas.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_Taken_if77.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_Taken_if77.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_Taken_if77.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_creative_team_r90h.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_creative_team_r90h.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_creative_team_r90h.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_empty_xct9.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_empty_xct9.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_empty_xct9.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_no_data_qbuo.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_no_data_qbuo.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_no_data_qbuo.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_not_found_60pq.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_not_found_60pq.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_not_found_60pq.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_page_not_found_su7k.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_page_not_found_su7k.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_page_not_found_su7k.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_sign_in_e6hj.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_sign_in_e6hj.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_sign_in_e6hj.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_tabs_jf82.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_tabs_jf82.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_tabs_jf82.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_update_uxn2.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_update_uxn2.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_update_uxn2.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_upgrade_06a0.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\undraw\\undraw_upgrade_06a0.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\undraw\\undraw_upgrade_06a0.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\visa.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\img\\visa.svg",
       "PackagePath": "staticwebassets\\AP-Assets\\img\\visa.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\bootstrap.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\jquery-3.7.1.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\jquery-3.7.1.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\core\\jquery-3.7.1.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\popper.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\demo.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\demo.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\demo.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\kaiadmin.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\kaiadmin.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\kaiadmin.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\kaiadmin.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\kaiadmin.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\kaiadmin.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\chart-circle\\circles.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\chart-circle\\circles.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\chart.js\\chart.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\chart.js\\chart.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\chart.js\\chart.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\datatables\\datatables.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\datatables\\datatables.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\datatables\\datatables.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\dropzone\\dropzone.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\dropzone\\dropzone.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\dropzone\\dropzone.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\gmaps\\gmaps.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\gmaps\\gmaps.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\gmaps\\gmaps.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jsvectormap\\world.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\jsvectormap\\world.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\jsvectormap\\world.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\list.js\\list.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\list.js\\list.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\list.js\\list.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\moment\\moment.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\moment\\moment.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\moment\\moment.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\owl-carousel\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\owl.video.play.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\owl-carousel\\owl.video.play.png",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\owl-carousel\\owl.video.play.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\select2\\select2.full.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\select2\\select2.full.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\select2\\select2.full.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sortable\\sortable.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sortable\\sortable.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\sortable\\sortable.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\summernote\\summernote-lite.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\summernote\\summernote-lite.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\summernote\\summernote-lite.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\sweetalert\\sweetalert.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\webfont\\webfont.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\plugin\\webfont\\webfont.min.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\plugin\\webfont\\webfont.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\setting-demo.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\setting-demo.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\setting-demo.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\setting-demo2.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\AP-Assets\\js\\setting-demo2.js",
       "PackagePath": "staticwebassets\\AP-Assets\\js\\setting-demo2.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\audio\\dummy-audio.mp3",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\audio\\dummy-audio.mp3",
       "PackagePath": "staticwebassets\\UP-Assets\\audio\\dummy-audio.mp3"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\animate.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\animate.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\audioplayer.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\audioplayer.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\audioplayer.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\bootstrap.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\classy-nav.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\classy-nav.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\classy-nav.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\font-awesome.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\magnific-popup.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\one-music-icon.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\one-music-icon.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\one-music-icon.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\owl.carousel.min.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\UP-Assets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\FontAwesome.otf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.eot",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\classy.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.svg",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\classy.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.ttf",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\classy.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\classy.woff",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\classy.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.eot",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.eot",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\icomoon.eot"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.svg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.svg",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\icomoon.svg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.ttf",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.ttf",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\icomoon.ttf"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.woff",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\fonts\\icomoon.woff",
       "PackagePath": "staticwebassets\\UP-Assets\\fonts\\icomoon.woff"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a10.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a10.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a10.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a11.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a11.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a11.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a12.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a12.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a12.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a5.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a5.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a5.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a6.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a6.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a6.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a7.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a7.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a7.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a8.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a8.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a8.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a9.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\a9.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\a9.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add.gif",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add.gif",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\add.gif"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add2.gif",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add2.gif",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\add2.gif"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add3.gif",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\add3.gif",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\add3.gif"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\b1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\b2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\b3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\b4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\b4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\bg-1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\bg-2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\bg-3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\bg-4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\bg-4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\blog1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\blog2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\blog3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\blog3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\breadcumb.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\breadcumb2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\breadcumb3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\breadcumb3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e5.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e5.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e5.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e6.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e6.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e6.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e7.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e7.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e7.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e8.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e8.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e8.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e9.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\e9.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\e9.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\fa.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\fa.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\fa.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa5.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa5.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa5.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa6.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa6.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa6.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa7.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\pa7.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\pa7.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\s1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\s2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\s3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\s4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\s4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\t1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\t1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\t1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt1.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt1.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt1.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt10.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt10.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt10.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt11.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt11.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt11.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt12.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt12.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt12.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt2.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt2.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt2.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt3.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt3.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt3.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt4.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt4.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt4.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt5.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt5.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt5.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt6.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt6.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt6.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt7.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt7.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt7.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt8.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt8.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt8.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt9.jpg",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\bg-img\\wt9.jpg",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\bg-img\\wt9.jpg"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\core-img\\favicon.ico",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\core-img\\favicon.ico",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\core-img\\favicon.ico"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\core-img\\logo.png",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\img\\core-img\\logo.png",
       "PackagePath": "staticwebassets\\UP-Assets\\img\\core-img\\logo.png"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\active.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\active.js",
       "PackagePath": "staticwebassets\\UP-Assets\\js\\active.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\bootstrap\\bootstrap.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\bootstrap\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\UP-Assets\\js\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\bootstrap\\popper.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\bootstrap\\popper.min.js",
       "PackagePath": "staticwebassets\\UP-Assets\\js\\bootstrap\\popper.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\jquery\\jquery-2.2.4.min.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\jquery\\jquery-2.2.4.min.js",
       "PackagePath": "staticwebassets\\UP-Assets\\js\\jquery\\jquery-2.2.4.min.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\plugins\\plugins.js",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\js\\plugins\\plugins.js",
       "PackagePath": "staticwebassets\\UP-Assets\\js\\plugins\\plugins.js"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_fonts.scss",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_fonts.scss",
       "PackagePath": "staticwebassets\\UP-Assets\\scss\\_fonts.scss"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_mixin.scss",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_mixin.scss",
       "PackagePath": "staticwebassets\\UP-Assets\\scss\\_mixin.scss"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_responsive.scss",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_responsive.scss",
       "PackagePath": "staticwebassets\\UP-Assets\\scss\\_responsive.scss"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_theme_color.scss",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\_theme_color.scss",
       "PackagePath": "staticwebassets\\UP-Assets\\scss\\_theme_color.scss"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\style.scss",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\UP-Assets\\scss\\style.scss"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\style.css",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\style.css",
       "PackagePath": "staticwebassets\\UP-Assets\\style.css"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\style.css.map",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\UP-Assets\\style.css.map",
       "PackagePath": "staticwebassets\\UP-Assets\\style.css.map"
     },
     {
-      "Id": "D:\\C#-Projects\\onlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\favicon.ico",
+      "Id": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
