@@ -1,4 +1,4 @@
-﻿
+﻿@model onlineShop4DVDs.Models.loginView;
 @{
     ViewData["Title"] = "login";
 }
@@ -11,29 +11,47 @@
     </div>
 </section>
 <!-- ##### Breadcumb Area End ##### -->
-
 <!-- ##### Login Area Start ##### -->
 <section class="login-area section-padding-100">
     <div class="container">
+      @*   @{
+            if (@ViewBag.registerMessage != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    <strong>@ViewBag.registerMessage</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+
+            if (@ViewBag.LoginMessage != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <strong>@ViewBag.LoginMessage</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+        } *@
         <div class="row justify-content-center">
             <div class="col-12 col-lg-8">
                 <div class="login-content">
                     <h3>Welcome Back</h3>
                     <!-- Login Form -->
                     <div class="login-form">
-                        <form action="#" method="post">
+                        <form asp-action="login" method="post">
                             <div class="form-group">
-                                <label for="exampleInputEmail1">Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter E-mail">
+                                <label asp-for="Email"></label>
+                                <input asp-for="Email" class="form-control" type="email" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
                                 <small id="emailHelp" class="form-text text-muted"><i class="fa fa-lock mr-2"></i>We'll never share your email with anyone else.</small>
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputPassword1">Password</label>
-                                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                              <div class="d-flex justify-content-between">
-                                <p class="text-secondary">Forgot Password ?</p>
-                                <p class="text-secondary">Don't have an account? <a asp-action="register" asp-controller="Home">Signup</a></p>
-                              </div>
+                                <label asp-for="Password"></label>
+                                <input asp-for="Password" class="form-control" type="password" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                                <div class="d-flex justify-content-between">
+                                    <p class="text-secondary">Forgot Password?</p>
+                                    <p class="text-secondary">Don't have an account? <a asp-action="register" asp-controller="Home">Signup</a></p>
+                                </div>
                             </div>
                             <button type="submit" class="btn oneMusic-btn mt-30">Login</button>
                         </form>
@@ -44,4 +62,3 @@
     </div>
 </section>
 <!-- ##### Login Area End ##### -->
-

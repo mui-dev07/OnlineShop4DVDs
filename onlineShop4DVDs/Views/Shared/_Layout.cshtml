@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http;
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access;
+@model onlineShop4DVDs.Models.UserCred;
+
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -59,45 +64,58 @@
                                 <ul>
                                     <li><a asp-action="index" asp-controller="Home">Home</a></li>
                                     <li><a asp-action="albumStore" asp-controller="Home">Albums</a></li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                        <ul class="dropdown" >
-                                            <li><a asp-action="contact" asp-controller="Home">Contact</a></li>
-                                            <li><a asp-action="elements" asp-controller="Home">Elements</a></li>
-                                            <li><a asp-action ="register" asp-controller="Home">Register</a></li>
-                                            <li><a asp-action="login" asp-controller="Home">Login</a></li>
-                                            @* <li>
-                                                <a href="#">Dropdown</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="#">Even Dropdown</a></li>
-                                                    <li><a href="#">Even Dropdown</a></li>
-                                                    <li><a href="#">Even Dropdown</a></li>
-                                                    <li>
-                                                        <a href="#">Even Dropdown</a>
-                                                        <ul class="dropdown">
-                                                            <li><a href="#">Deeply Dropdown</a></li>
-                                                            <li><a href="#">Deeply Dropdown</a></li>
-                                                            <li><a href="#">Deeply Dropdown</a></li>
-                                                            <li><a href="#">Deeply Dropdown</a></li>
-                                                            <li><a href="#">Deeply Dropdown</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">Even Dropdown</a></li>
-                                                </ul>
-                                            </li> *@
-                                        </ul>
-                                    </li>
                                     <li><a asp-action="events" asp-controller="Home">Events</a></li>
                                     <li><a asp-action="news" asp-controller="Home">News</a></li>
                                     <li><a asp-action="contact" asp-controller="Home">Contact</a></li>
+                                    @if(@access.HttpContext.Session.GetString("UserName") != null)
+                                    {
+                                        <li>
+                                            @* <img src="@Url.Content(Model.ProfilePicture)" alt="Profile Picture" class="rounded-circle" style="width: 30px; height: 30px; object-fit: cover;" /> *@
+
+                                            <a href="#">User Settings</a>
+                                            <ul class="dropdown">
+                                                <li><a asp-action="profile" asp-controller="Home">Profile</a></li>
+                                                <li><a asp-action="logout" asp-controller="Home">Logout</a></li>
+                                                @* <li>
+                                            <a href="#">Dropdown</a>
+                                            <ul class="dropdown">
+                                            <li><a href="#">Even Dropdown</a></li>
+                                            <li><a href="#">Even Dropdown</a></li>
+                                            <li><a href="#">Even Dropdown</a></li>
+                                            <li>
+                                            <a href="#">Even Dropdown</a>
+                                            <ul class="dropdown">
+                                            <li><a href="#">Deeply Dropdown</a></li>
+                                            <li><a href="#">Deeply Dropdown</a></li>
+                                            <li><a href="#">Deeply Dropdown</a></li>
+                                            <li><a href="#">Deeply Dropdown</a></li>
+                                            <li><a href="#">Deeply Dropdown</a></li>
+                                            </ul>
+                                            </li>
+                                            <li><a href="#">Even Dropdown</a></li>
+                                            </ul>
+                                            </li> *@
+                                            </ul>
+                                        </li>
+                                    }
+
                                 </ul>
 
                                 <!-- Login/Register & Cart Button -->
                                 <div class="login-register-cart-button d-flex align-items-center">
                                     <!-- Login/Register -->
-                                    <div class="login-register-btn mr-50">
-                                        <a asp-action="login" asp-controller="Home" id="loginBtn">Login / Register</a>
-                                    </div>
+                                    @if (@access.HttpContext.Session.GetString("UserName") != null)
+                                    {
+                                        <div class="login-register-btn mr-50">
+                                            <a asp-action="logout" asp-controller="Home" id="loginBtn">Hello , @access.HttpContext.Session.GetString("UserName")</a>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="login-register-btn mr-50">
+                                            <a asp-action="login" asp-controller="Home" id="loginBtn">Login/Register</a>
+                                        </div>
+                                    }
 
                                     <!-- Cart Button -->
                                     <div class="cart-btn">

@@ -43,11 +43,11 @@ public partial class Shop4DvdsContext : DbContext
 
     public virtual DbSet<Supplier> Suppliers { get; set; }
 
-    public virtual DbSet<User> Users { get; set; }
+    public virtual DbSet<UserCred> UserCreds { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("server=DESKTOP-48FQ85S\\SQLEXPRESS; database=Shop4DVDs; trusted_connection=true;trustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("server=DESKTOP-48FQ85S\\SQLEXPRESS; database=shop4DVDs; trusted_connection=true;trustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -112,10 +112,6 @@ public partial class Shop4DvdsContext : DbContext
             entity.Property(e => e.FeedbackId).HasColumnName("FeedbackID");
             entity.Property(e => e.Content).HasColumnType("text");
             entity.Property(e => e.UserId).HasColumnName("UserID");
-
-            entity.HasOne(d => d.User).WithMany(p => p.Feedbacks)
-                .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__Feedback__UserID__73BA3083");
         });
 
         modelBuilder.Entity<Game>(entity =>
@@ -160,10 +156,6 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.OrderId).HasColumnName("OrderID");
             entity.Property(e => e.UserId).HasColumnName("UserID");
-
-            entity.HasOne(d => d.User).WithMany(p => p.Orders)
-                .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__Order__UserID__6D0D32F4");
         });
 
         modelBuilder.Entity<OrderItem>(entity =>
@@ -257,10 +249,6 @@ public partial class Shop4DvdsContext : DbContext
             entity.HasOne(d => d.Product).WithMany(p => p.Reviews)
                 .HasForeignKey(d => d.ProductId)
                 .HasConstraintName("FK__Review__ProductI__778AC167");
-
-            entity.HasOne(d => d.User).WithMany(p => p.Reviews)
-                .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK__Review__UserID__76969D2E");
         });
 
         modelBuilder.Entity<Song>(entity =>
@@ -295,31 +283,40 @@ public partial class Shop4DvdsContext : DbContext
                 .IsUnicode(false);
         });
 
-        modelBuilder.Entity<User>(entity =>
+        modelBuilder.Entity<UserCred>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__User__1788CCAC38BA62C6");
+            entity.HasKey(e => e.Id).HasName("PK__User_cre__3214EC073C9EEC4E");
 
-            entity.ToTable("User");
+            entity.ToTable("User_cred");
 
-            entity.HasIndex(e => e.Username, "UQ__User__536C85E442E0F868").IsUnique();
+            entity.HasIndex(e => e.Username, "UQ__User_cre__536C85E4B22429E4").IsUnique();
 
-            entity.HasIndex(e => e.Email, "UQ__User__A9D105345D33870C").IsUnique();
+            entity.HasIndex(e => e.Email, "UQ__User_cre__A9D105343BDD8F6E").IsUnique();
 
-            entity.Property(e => e.UserId).HasColumnName("UserID");
+            entity.Property(e => e.DateOfBirth).HasColumnName("Date_of_birth");
+            entity.Property(e => e.DateTime)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("Date_time");
             entity.Property(e => e.Email)
                 .HasMaxLength(100)
+                .IsUnicode(false);
+            entity.Property(e => e.Firstname)
+                .HasMaxLength(50)
+                .IsUnicode(false);
+            entity.Property(e => e.Lastname)
+                .HasMaxLength(50)
                 .IsUnicode(false);
             entity.Property(e => e.Password)
                 .HasMaxLength(255)
                 .IsUnicode(false);
-            entity.Property(e => e.ProfileId).HasColumnName("ProfileID");
+            entity.Property(e => e.ProfilePicture)
+                .HasMaxLength(255)
+                .IsUnicode(false)
+                .HasColumnName("Profile_picture");
             entity.Property(e => e.Username)
                 .HasMaxLength(50)
                 .IsUnicode(false);
-
-            entity.HasOne(d => d.Profile).WithMany(p => p.Users)
-                .HasForeignKey(d => d.ProfileId)
-                .HasConstraintName("FK__User__ProfileID__52593CB8");
         });
 
         OnModelCreatingPartial(modelBuilder);

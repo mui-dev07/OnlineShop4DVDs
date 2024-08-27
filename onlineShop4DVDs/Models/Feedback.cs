@@ -12,6 +12,4 @@ public partial class Feedback
     public string? Content { get; set; }
 
     public DateOnly? FeedbackDate { get; set; }
-
-    public virtual User? User { get; set; }
 }

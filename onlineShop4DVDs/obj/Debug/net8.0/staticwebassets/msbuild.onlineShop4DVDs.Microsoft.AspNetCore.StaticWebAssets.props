@@ -7872,6 +7872,54 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\core-img\logo.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\56b33395-6825-4425-9cae-b12e7bd9b934_E9sN5jzVUAUgYHn.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>onlineShop4DVDs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/onlineShop4DVDs</BasePath>
+      <RelativePath>UP-Assets/img/pfp/56b33395-6825-4425-9cae-b12e7bd9b934_E9sN5jzVUAUgYHn.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\56b33395-6825-4425-9cae-b12e7bd9b934_E9sN5jzVUAUgYHn.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\812b2039-86d0-4cc5-a183-82f8ae6ae0f0_pfp-3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>onlineShop4DVDs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/onlineShop4DVDs</BasePath>
+      <RelativePath>UP-Assets/img/pfp/812b2039-86d0-4cc5-a183-82f8ae6ae0f0_pfp-3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\812b2039-86d0-4cc5-a183-82f8ae6ae0f0_pfp-3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\b3e70aec-7df0-4d14-9ee3-c0f952ffec9d_pfp.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>onlineShop4DVDs</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/onlineShop4DVDs</BasePath>
+      <RelativePath>UP-Assets/img/pfp/b3e70aec-7df0-4d14-9ee3-c0f952ffec9d_pfp.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\img\pfp\b3e70aec-7df0-4d14-9ee3-c0f952ffec9d_pfp.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\UP-Assets\js\active.js))">
       <SourceType>Package</SourceType>
       <SourceId>onlineShop4DVDs</SourceId>
