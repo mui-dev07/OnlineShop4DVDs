@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "D:\\GitHub\\OnlineShop4DVDs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\shared\\_lapartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\shared\\_lapartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\shopmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\shopmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\shop4dvdscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\shop4dvdscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +51,8 @@
       "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\shop4dvdscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\shop4dvdscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|d:\\github\\onlineshop4dvds\\onlineshop4dvds\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1AA0010-E2E1-419D-9223-948A1699FB1E}|onlineShop4DVDs\\onlineShop4DVDs.csproj|solutionrelative:onlineshop4dvds\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,60 +62,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "onlineShop4DVDs\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:41:47.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "onlineShop4DVDs\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:43:53.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LAPartialView.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Shared\\_LAPartialView.cshtml",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Shared\\_LAPartialView.cshtml",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Shared\\_LAPartialView.cshtml",
+              "RelativeToolTip": "onlineShop4DVDs\\Views\\Shared\\_LAPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:22:32.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Home\\login.cshtml",
-              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\login.cshtml",
-              "RelativeToolTip": "onlineShop4DVDs\\Views\\Home\\login.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T22:24:04.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserCred.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\UserCred.cs",
-              "RelativeDocumentMoniker": "onlineShop4DVDs\\Models\\UserCred.cs",
-              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\UserCred.cs",
-              "RelativeToolTip": "onlineShop4DVDs\\Models\\UserCred.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA7wCIAAABZAAAA",
+              "DocumentIndex": 4,
+              "Title": "ShopModelView.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\ShopModelView.cs",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Models\\ShopModelView.cs",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\ShopModelView.cs",
+              "RelativeToolTip": "onlineShop4DVDs\\Models\\ShopModelView.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T21:18:18.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "onlineShop4DVDs\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "onlineShop4DVDs\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAuwD4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T10:41:47.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "register.cshtml",
-              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\register.cshtml",
-              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Home\\register.cshtml",
-              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\register.cshtml",
-              "RelativeToolTip": "onlineShop4DVDs\\Views\\Home\\register.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAUwEAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T20:18:01.644Z",
+              "WhenOpened": "2024-08-28T10:36:53.85Z",
               "EditorCaption": ""
             },
             {
@@ -106,27 +131,90 @@
               "RelativeDocumentMoniker": "onlineShop4DVDs\\Models\\Shop4DvdsContext.cs",
               "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\Shop4DvdsContext.cs",
               "RelativeToolTip": "onlineShop4DVDs\\Models\\Shop4DvdsContext.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAYwAUAAAAAAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAYwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T16:47:00.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Models\\Album.cs",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\Album.cs",
+              "RelativeToolTip": "onlineShop4DVDs\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:45:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserCred.cs",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\UserCred.cs",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Models\\UserCred.cs",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Models\\UserCred.cs",
+              "RelativeToolTip": "onlineShop4DVDs\\Models\\UserCred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:18:18.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Home\\login.cshtml",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "onlineShop4DVDs\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T22:24:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "onlineShop4DVDs\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:01:51.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Home\\register.cshtml",
+              "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "onlineShop4DVDs\\Views\\Home\\register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T20:18:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Program.cs",
               "RelativeDocumentMoniker": "onlineShop4DVDs\\Program.cs",
               "ToolTip": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Program.cs",
               "RelativeToolTip": "onlineShop4DVDs\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T16:34:48.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T16:34:48.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\appsettings.json",
               "RelativeDocumentMoniker": "onlineShop4DVDs\\appsettings.json",
@@ -134,12 +222,11 @@
               "RelativeToolTip": "onlineShop4DVDs\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T16:33:18.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T16:33:18.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\GitHub\\OnlineShop4DVDs\\onlineShop4DVDs\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "onlineShop4DVDs\\Views\\Admin\\Index.cshtml",
@@ -147,8 +234,7 @@
               "RelativeToolTip": "onlineShop4DVDs\\Views\\Admin\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-18T13:25:57.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T13:25:57.524Z"
             }
           ]
         }

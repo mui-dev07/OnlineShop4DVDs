@@ -17,9 +17,9 @@ public partial class Album
 
     public int? CategoryId { get; set; }
 
-    public virtual Artist? Artist { get; set; }
+    public virtual ICollection<Artist> Artists { get; set; }
 
-    public virtual Category? Category { get; set; }
+    public virtual ICollection<Category> Categories { get; set; }
 
     public virtual Producer? Producer { get; set; }
 

@@ -14,23 +14,27 @@
 <!-- ##### Login Area Start ##### -->
 <section class="login-area section-padding-100">
     <div class="container">
-      @*   @{
+       @{
             if (@ViewBag.registerMessage != null)
             {
                 <div class="alert alert-success alert-dismissible fade show" role="alert">
-                    <strong>@ViewBag.registerMessage</strong>
-                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    <strong>@ViewBag.registerMessage</strong> Login to access your account.
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                 </div>
             }
 
             if (@ViewBag.LoginMessage != null)
             {
                 <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                    <strong>@ViewBag.LoginMessage</strong>
-                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    <strong>@ViewBag.LoginMessage</strong> 
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                 </div>
             }
-        } *@
+        } 
         <div class="row justify-content-center">
             <div class="col-12 col-lg-8">
                 <div class="login-content">

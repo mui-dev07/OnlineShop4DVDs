@@ -22,8 +22,27 @@ namespace onlineShop4DVDs.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            // Fetch albums and related data using the foreign key relationships
+            var model = context.Albums
+                .Include(a => a.Songs)
+                .Include(a => a.Artists) // Include artists
+                .Include(a => a.Categories) // Include categories
+               /* .Include(a => a.Feedbacks)*/ 
+                                           // Add more includes as needed
+                .Select(a => new ShopModelView
+                {
+                    ShopAlbum = a,
+                    ShopSong = a.Songs.ToList(),
+                    ShopArtist = a.Artists.ToList(),
+                    ShopCategory = a.Categories.ToList(),
+                    //ShopFeedback = a.Feedbacks.ToList(),
+                    // Add other entities to the ShopModelView
+                })
+                .ToList();
+
+            return View(model);
         }
+
 
         public IActionResult albumStore()
         {
@@ -105,7 +124,7 @@ namespace onlineShop4DVDs.Controllers
                     HttpContext.Session.SetString("UserID", user.Id.ToString());
 
                     ModelState.Clear();
-                    ViewBag.registerMessage = $"{user.Firstname} {user.Lastname} Registered Successfully. Please Login.";
+                    ViewBag.registerMessage = $"{user.Firstname} {user.Lastname} Registered Successfully.";
 
                     return RedirectToAction("Login");
                 }
