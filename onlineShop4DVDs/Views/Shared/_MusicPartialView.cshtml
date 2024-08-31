@@ -1,0 +1,19 @@
+﻿@model onlineShop4DVDs.Models.ShopModelView
+
+<!-- Single Album Area -->
+@foreach (var song in Model.ShopSong)
+{
+    <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+        <div class="single-album-area wow fadeInUp" data-wow-delay="200ms">
+            <div class="album-thumb">
+                <img src="~/UP-Assets/img/bg-img/b2.jpg" alt="">
+            </div>
+            <div class="album-info">
+                <a href="#">
+                    <h5>@song.Title</h5>
+                </a>
+                <p>@song.Album.Title</p>
+            </div>
+        </div>
+    </div>
+}

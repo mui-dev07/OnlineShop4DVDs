@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "contact";
 }
 
@@ -14,6 +13,17 @@
 <!-- ##### Contact Area Start ##### -->
 <section class="contact-area section-padding-100-0">
     <div class="container">
+
+        @if (@ViewBag.ContactMessage != null)
+        {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@ViewBag.ContactMessage</strong>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        }
+
         <div class="row">
 
             <div class="col-12 col-lg-3">
@@ -71,4 +81,6 @@
     </div>
 </section>
 <!-- ##### Contact Area End ##### -->
+
+<partial name="_ContactPartialView" />
 

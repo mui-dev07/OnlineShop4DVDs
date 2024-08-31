@@ -13,5 +13,7 @@ public partial class Song
 
     public TimeOnly? Duration { get; set; }
 
+    public string? SongPicture { get; set; }
+
     public virtual Album? Album { get; set; }
 }

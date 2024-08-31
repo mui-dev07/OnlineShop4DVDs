@@ -21,6 +21,8 @@ public partial class Shop4DvdsContext : DbContext
 
     public virtual DbSet<Category> Categories { get; set; }
 
+    public virtual DbSet<ContactMessage> ContactMessages { get; set; }
+
     public virtual DbSet<Feedback> Feedbacks { get; set; }
 
     public virtual DbSet<Game> Games { get; set; }
@@ -58,6 +60,9 @@ public partial class Shop4DvdsContext : DbContext
             entity.ToTable("Album");
 
             entity.Property(e => e.AlbumId).HasColumnName("AlbumID");
+            entity.Property(e => e.AlbumPicture)
+                .HasMaxLength(100)
+                .IsUnicode(false);
             entity.Property(e => e.ArtistId).HasColumnName("ArtistID");
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
             entity.Property(e => e.ProducerId).HasColumnName("ProducerID");
@@ -103,6 +108,18 @@ public partial class Shop4DvdsContext : DbContext
                 .IsUnicode(false);
         });
 
+        modelBuilder.Entity<ContactMessage>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__ContactM__3214EC0739AE4CD0");
+
+            entity.Property(e => e.Email).HasMaxLength(100);
+            entity.Property(e => e.Name).HasMaxLength(100);
+            entity.Property(e => e.Subject).HasMaxLength(200);
+            entity.Property(e => e.SubmittedDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime");
+        });
+
         modelBuilder.Entity<Feedback>(entity =>
         {
             entity.HasKey(e => e.FeedbackId).HasName("PK__Feedback__6A4BEDF6A93DC820");
@@ -122,6 +139,9 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.GameId).HasColumnName("GameID");
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.GamePicture)
+                .HasMaxLength(100)
+                .IsUnicode(false);
             entity.Property(e => e.Title)
                 .HasMaxLength(100)
                 .IsUnicode(false);
@@ -139,6 +159,9 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.MovieId).HasColumnName("MovieID");
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.MoviePicture)
+                .HasMaxLength(100)
+                .IsUnicode(false);
             entity.Property(e => e.Title)
                 .HasMaxLength(100)
                 .IsUnicode(false);
@@ -259,6 +282,9 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.SongId).HasColumnName("SongID");
             entity.Property(e => e.AlbumId).HasColumnName("AlbumID");
+            entity.Property(e => e.SongPicture)
+                .HasMaxLength(100)
+                .IsUnicode(false);
             entity.Property(e => e.Title)
                 .HasMaxLength(100)
                 .IsUnicode(false);

@@ -1,6 +1,5 @@
-﻿@using Microsoft.AspNetCore.Http;
-@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access;
-@model onlineShop4DVDs.Models.UserCred;
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access
 
 
 <!DOCTYPE html>
@@ -70,12 +69,13 @@
                                     @if(@access.HttpContext.Session.GetString("UserName") != null)
                                     {
                                         <li>
-                                            @* <img src="@Url.Content(Model.ProfilePicture)" alt="Profile Picture" class="rounded-circle" style="width: 30px; height: 30px; object-fit: cover;" /> *@
-
                                             <a href="#">User Settings</a>
                                             <ul class="dropdown">
-                                                <li><a asp-action="profile" asp-controller="Home">Profile</a></li>
-                                                <li><a asp-action="logout" asp-controller="Home">Logout</a></li>
+                                                <li>
+                                                    <a asp-action="UserProfile" asp-controller="Login" asp-route-id="@access.HttpContext.Session.GetString("UserID")">Profile</a>
+                                                </li>
+
+                                                <li><a asp-action="logout" asp-controller="Login">Logout</a></li>
                                                 @* <li>
                                             <a href="#">Dropdown</a>
                                             <ul class="dropdown">
@@ -106,14 +106,19 @@
                                     <!-- Login/Register -->
                                     @if (@access.HttpContext.Session.GetString("UserName") != null)
                                     {
-                                        <div class="login-register-btn mr-50">
-                                            <a asp-action="logout" asp-controller="Home" id="loginBtn">Hello , @access.HttpContext.Session.GetString("UserName")</a>
+                                        <div class="login-register-btn mr-50 d-flex align-items-center ">
+                                            <div class="px-2">
+                                                <img src="@access.HttpContext.Session.GetString("ProfilePicture")" alt="Profile Picture" class="rounded-circle" style="width: 30px; height: 30px; object-fit: cover;" />
+                                            </div>
+
+                                            <a asp-action="UserProfile" asp-controller="Login" id="loginBtn" asp-route-id="@access.HttpContext.Session.GetString("UserID")">Hello, @access.HttpContext.Session.GetString("UserName")</a>
                                         </div>
+
                                     }
                                     else
                                     {
                                         <div class="login-register-btn mr-50">
-                                            <a asp-action="login" asp-controller="Home" id="loginBtn">Login/Register</a>
+                                            <a asp-action="login" asp-controller="Login" id="loginBtn">Login/Register</a>
                                         </div>
                                     }
 
@@ -136,56 +141,6 @@
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-
-    <!-- ##### Contact Area Start ##### -->
-    <section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url('@Url.Content("~/UP-Assets/img/bg-img/bg-2.jpg")');">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-heading white wow fadeInUp" data-wow-delay="100ms">
-                        <p>See what’s new</p>
-                        <h2>Get In Touch</h2>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-12">
-                    <!-- Contact Form Area -->
-                    <div class="contact-form-area">
-                        <form action="#" method="post">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="100ms">
-                                        <input type="text" class="form-control" id="name" placeholder="Name">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="200ms">
-                                        <input type="email" class="form-control" id="email" placeholder="E-mail">
-                                    </div>
-                                </div>
-                                <div class="col-lg-4">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="300ms">
-                                        <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group wow fadeInUp" data-wow-delay="400ms">
-                                        <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="Message"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center wow fadeInUp" data-wow-delay="500ms">
-                                    <button class="btn oneMusic-btn mt-30" type="submit">Send <i class="fa fa-angle-double-right"></i></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ##### Contact Area End ##### -->
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">

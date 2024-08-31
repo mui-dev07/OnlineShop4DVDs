@@ -1,0 +1,87 @@
+﻿@model onlineShop4DVDs.Models.UserCred
+@{
+    ViewData["Title"] = "register";
+
+}
+
+<!-- ##### Breadcumb Area Start ##### -->
+<section class="breadcumb-area bg-img bg-overlay" style="background-image:url('@Url.Content("~/UP-Assets/img/bg-img/breadcumb3.jpg")');">
+    <div class="bradcumbContent">
+        <p>See what’s new</p>
+        <h2>Register</h2>
+    </div>
+</section>
+<!-- ##### Breadcumb Area End ##### -->
+<!-- ##### Register Area Start ##### -->
+<section class="login-area section-padding-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-8">
+                <div class="login-content">
+                    <h3>Register Your Account</h3>
+                    <!-- Register Form -->
+                    <div class="login-form">
+                        <form asp-action="register" asp-controller="Login" method="post" enctype="multipart/form-data">
+                            @Html.AntiForgeryToken()
+
+                            <div class="form-group">
+                                <label asp-for="Firstname"></label>
+                                <input asp-for="Firstname" class="form-control" type="text" placeholder="Enter Your First Name">
+                                <span asp-validation-for="Firstname" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Lastname"></label>
+                                <input asp-for="Lastname" class="form-control" type="text" placeholder="Enter Your Last Name">
+                                <span asp-validation-for="Lastname" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Email"></label>
+                                <input asp-for="Email" class="form-control" type="email" aria-describedby="emailHelp" placeholder="Enter E-mail">
+                                <small id="emailHelp" class="form-text text-muted"><i class="fa fa-lock mr-2"></i>We'll never share your email with anyone else.</small>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Username"></label>
+                                <input asp-for="Username" class="form-control" type="text" placeholder="Enter Your User Name">
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="DateOfBirth"></label>
+                                <input asp-for="DateOfBirth" class="form-control" type="date">
+                                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="ProfilePicture"></label>
+                                <input asp-for="ProfilePicture" class="form-control" type="file">
+                                <span asp-validation-for="ProfilePicture" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label asp-for="Password"></label>
+                                <input asp-for="Password" class="form-control" type="password" placeholder="Password">
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="exampleInputcPassword1">Confirm Password</label>
+                                <input type="password" class="form-control" id="exampleInputcPassword1" name="ConfirmPassword" placeholder="Confirm Password">
+                                <!-- You can add validation for ConfirmPassword as per your logic -->
+                            </div>
+
+                            <button type="submit" class="btn oneMusic-btn mt-30">Register</button>
+                        </form>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ##### Register Area End ##### -->

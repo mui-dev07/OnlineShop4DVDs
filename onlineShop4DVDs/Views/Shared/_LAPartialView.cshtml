@@ -1,15 +1,17 @@
 ﻿@model onlineShop4DVDs.Models.ShopModelView
 
-<div class="album-details">
-    <h2>@Model.ShopAlbum.Title</h2>
-    <p>Artists: @string.Join(", ", Model.ShopArtist.Select(a => a.Name))</p>
-    <p>Categories: @string.Join(", ", Model.ShopCategory.Select(c => c.CategoryName))</p>
-    @* <p>Feedback Count: @Model.ShopFeedback.Count()</p> *@
-    <ul>
-        @foreach (var song in Model.ShopSong)
-        {
-            <li>@song.Title</li>
-        }
-    </ul>
-    <!-- Add more display logic for other entities -->
+<div class="albums-slideshow owl-carousel">
+    @foreach (var album in Model.ShopAlbum)
+    {
+        <!-- Single Album -->
+        <div class="single-album">
+            <img src="~/UP-Assets/img/bg-img/a1.jpg" alt="">
+            <div class="album-info">
+                <a href="#">
+                    <h5>@album.Title</h5>
+                </a>
+                <p>Artist: @album.Artist.Name</p>  <!-- Accessing the Artist's Name -->
+            </div>
+        </div>
+    }
 </div>

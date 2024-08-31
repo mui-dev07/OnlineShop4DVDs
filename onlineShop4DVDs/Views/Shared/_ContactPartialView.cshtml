@@ -1,0 +1,80 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access
+@model onlineShop4DVDs.Models.ContactMessage
+
+
+<!-- ##### Contact Area Start ##### -->
+<section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url('@Url.Content("~/UP-Assets/img/bg-img/bg-2.jpg")');">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading white wow fadeInUp" data-wow-delay="100ms">
+                    <p>See what’s new</p>
+                    <h2>Get In Touch</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <!-- Contact Form Area -->
+                <div class="contact-form-area">
+                    <form asp-action="contact" asp-controller="Home" method="post">
+                        <div class="row">
+
+                            <div class="col-md-6 col-lg-4">
+                                <div class="form-group wow fadeInUp" data-wow-delay="100ms">
+                                    <label asp-for="Name"></label>
+                                    <input asp-for="Name" class="form-control" placeholder="Name" />
+                                    <span asp-validation-for="Name" class="text-text-white"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 col-lg-4">
+                                <div class="form-group wow fadeInUp" data-wow-delay="200ms">
+                                    <label asp-for="Email"></label>
+                                    <input asp-for="Email" class="form-control" placeholder="E-mail" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                                <div class="form-group wow fadeInUp" data-wow-delay="300ms">
+                                    <label asp-for="Subject"></label>
+                                    <input asp-for="Subject" class="form-control" placeholder="Subject" />
+                                    <span asp-validation-for="Subject" class="text-text-white"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-12">
+                                <div class="form-group wow fadeInUp" data-wow-delay="400ms">
+                                    <label asp-for="Message"></label>
+                                    <textarea asp-for="Message" class="form-control" placeholder="Message" rows="10"></textarea>
+                                    <span asp-validation-for="Message" class="text-white"></span>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        @if (@access.HttpContext.Session.GetString("UserName") != null)
+                        {
+
+                            <div class="col-12 text-center wow fadeInUp" data-wow-delay="500ms">
+                                <button class="btn oneMusic-btn mt-30" type="submit">Send <i class="fa fa-angle-double-right"></i></button>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-12 text-center wow fadeInUp" data-wow-delay="500ms">
+                                <a class="btn oneMusic-btn mt-30" asp-action="Login" asp-controller="Login">Please Login To Send A Message</a>
+                            </div>
+                        }
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+<!-- ##### Contact Area End ##### -->

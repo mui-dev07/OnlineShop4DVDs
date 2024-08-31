@@ -13,5 +13,7 @@ public partial class Movie
 
     public DateOnly? ReleaseDate { get; set; }
 
+    public string? MoviePicture { get; set; }
+
     public virtual Category? Category { get; set; }
 }

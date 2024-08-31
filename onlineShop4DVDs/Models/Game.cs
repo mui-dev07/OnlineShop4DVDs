@@ -13,5 +13,7 @@ public partial class Game
 
     public DateOnly? ReleaseDate { get; set; }
 
+    public string? GamePicture { get; set; }
+
     public virtual Category? Category { get; set; }
 }

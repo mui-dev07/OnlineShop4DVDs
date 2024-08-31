@@ -7,7 +7,7 @@ namespace onlineShop4DVDs.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
         private readonly Shop4DvdsContext context;
 
         //public HomeController(ILogger<HomeController> logger)
@@ -20,27 +20,41 @@ namespace onlineShop4DVDs.Controllers
             this.context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            // Fetch albums and related data using the foreign key relationships
-            var model = context.Albums
-                .Include(a => a.Songs)
-                .Include(a => a.Artists) // Include artists
-                .Include(a => a.Categories) // Include categories
-               /* .Include(a => a.Feedbacks)*/ 
-                                           // Add more includes as needed
-                .Select(a => new ShopModelView
-                {
-                    ShopAlbum = a,
-                    ShopSong = a.Songs.ToList(),
-                    ShopArtist = a.Artists.ToList(),
-                    ShopCategory = a.Categories.ToList(),
-                    //ShopFeedback = a.Feedbacks.ToList(),
-                    // Add other entities to the ShopModelView
-                })
-                .ToList();
+            // Include the Category, Artist, Producer, and Songs in the Albums query
+            var albums = await context.Albums
+                .Include(p => p.Artist)
+                .Include(p => p.Producer)
+                .Include(p => p.Songs)
+                .Include(p => p.Category)  // Include Category in the Albums query
+                .ToListAsync();
 
-            return View(model);
+            // Fetch all Artists, Producers, and Songs
+            var artists = await context.Artists.ToListAsync();
+            var producers = await context.Producers.ToListAsync();
+            var songs = await context.Songs.ToListAsync();
+
+            // Fetch Games and Movies, including their Categories
+            var games = await context.Games
+                .Include(g => g.Category)
+                .ToListAsync();
+            var movies = await context.Movies
+                .Include(m => m.Category)
+                .ToListAsync();
+
+            // Create the ViewModel with the necessary data
+            var viewModel = new ShopModelView
+            {
+                ShopAlbum = albums,
+                ShopArtist = artists,
+                ShopProducer = producers,
+                ShopSong = songs,
+                ShopGame = games,
+                ShopMovie = movies
+            };
+
+            return View(viewModel);
         }
 
 
@@ -64,118 +78,23 @@ namespace onlineShop4DVDs.Controllers
             return View();
         }
 
-        public IActionResult elements()
-        {
-            return View();
-        }
-
-        public IActionResult register()
-        {
-            return View();
-        }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> register(UserCred model, IFormFile profilePicture)
+        public async Task<IActionResult> contact(ContactMessage model)
         {
-            if (profilePicture == null || profilePicture.Length == 0)
-            {
-                ModelState.AddModelError("ProfilePicture", "Profile Picture is required.");
-            }
-
             if (ModelState.IsValid)
             {
-                // Create a new UserCred object
-                UserCred user = new UserCred
-                {
-                    Firstname = model.Firstname,
-                    Lastname = model.Lastname,
-                    Email = model.Email,
-                    Username = model.Username,
-                    DateOfBirth = model.DateOfBirth,
-                    Password = model.Password
-                };
+                context.ContactMessages.Add(model);
+                await context.SaveChangesAsync();
 
-                // Handle profile picture upload
-                if (profilePicture != null && profilePicture.Length > 0)
-                {
-                    string uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/UP-Assets/img/pfp");
-                    if (!Directory.Exists(uploadsFolder))
-                    {
-                        Directory.CreateDirectory(uploadsFolder);
-                    }
-
-                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(profilePicture.FileName);
-                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
-                    using (var fileStream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await profilePicture.CopyToAsync(fileStream);
-                    }
-
-                    user.ProfilePicture = "/UP-Assets/img/pfp/" + uniqueFileName;
-                }
-
-                try
-                {
-                    await context.UserCreds.AddAsync(user);
-                    await context.SaveChangesAsync();
-
-                    HttpContext.Session.SetString("UserID", user.Id.ToString());
-
-                    ModelState.Clear();
-                    ViewBag.registerMessage = $"{user.Firstname} {user.Lastname} Registered Successfully.";
-
-                    return RedirectToAction("Login");
-                }
-                catch (DbUpdateException ex)
-                {
-                    ModelState.AddModelError("", "An error occurred while registering. Please try again.");
-                    return View(model);
-                }
+                ViewBag.ContactMessage = "Your Message Has Been Send Successfully ";
             }
 
             return View(model);
         }
 
-
-
-        public IActionResult login()
+        public IActionResult elements()
         {
-            return View();
-        }
-
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult login(loginView model)
-        {
-            if (ModelState.IsValid)
-            {
-                var user = context.UserCreds.Where(x => x.Email == model.Email && x.Password == model.Password).FirstOrDefault();
-                if (user != null)
-                {
-                    HttpContext.Session.SetString("UserID", user.Id.ToString());
-                    HttpContext.Session.SetString("UserEmail", user.Email);
-                    HttpContext.Session.SetString("UserName", user.Username);
-                    return RedirectToAction("Index");
-                }
-                else
-                {
-                    ViewBag.LoginMessage = "Login Failed";
-                }
-            }
-            return View();
-        }
-
-        public IActionResult logout()
-        {
-            if (HttpContext.Session.GetString("UserID") != null)
-            {
-                HttpContext.Session.Remove("UserID");
-                HttpContext.Session.Remove("UserEmail");
-                HttpContext.Session.Remove("UserName");
-                return RedirectToAction("Index");
-            }
             return View();
         }
 
