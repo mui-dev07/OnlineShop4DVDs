@@ -19,6 +19,8 @@ public partial class Album
 
     public string? AlbumPicture { get; set; }
 
+    public string? AlbumBg { get; set; }
+
     public virtual Artist? Artist { get; set; }
 
     public virtual Category? Category { get; set; }

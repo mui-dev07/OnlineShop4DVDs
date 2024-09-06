@@ -19,7 +19,22 @@
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="~/UP-Assets/style.css">
-  
+    <style>
+        /* CSS for the zoom effect */
+        .zoom-img {
+            width: 100%;
+            height: auto;
+            transition: transform 0.5s ease; /* Smooth zoom transition */
+        }
+
+        .zoom-container:hover .zoom-img {
+            transform: scale(1.2); /* Zoom in effect */
+        }
+
+        .zoom-container {
+            overflow: hidden; /* Ensures the image stays within its container when zoomed */
+        }
+    </style>
 </head>
 
 <body>
@@ -62,11 +77,11 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a asp-action="index" asp-controller="Home">Home</a></li>
-                                    <li><a asp-action="albumStore" asp-controller="Home">Albums</a></li>
+                                    <li><a asp-action="dvds" asp-controller="Home">DVDs</a></li>
                                     <li><a asp-action="events" asp-controller="Home">Events</a></li>
                                     <li><a asp-action="news" asp-controller="Home">News</a></li>
                                     <li><a asp-action="contact" asp-controller="Home">Contact</a></li>
-                                    @if(@access.HttpContext.Session.GetString("UserName") != null)
+                                    @if (@access.HttpContext.Session.GetString("UserName") != null)
                                     {
                                         <li>
                                             <a href="#">User Settings</a>
@@ -138,9 +153,9 @@
     </header>
     <!-- ##### Header Area End ##### -->
 
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">
@@ -150,7 +165,8 @@
                     <a href="#"><img src="~/UP-Assets/img/core-img/logo.png" alt=""></a>
                     <p class="copywrite-text">
                         <a href="#">
-                           Copyright &copy;<script>document.write(new Date().getFullYear());</script> This Website is Underconstruction.</a>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> This Website is Underconstruction.
+                        </a>
                     </p>
                 </div>
 
@@ -158,7 +174,7 @@
                     <div class="footer-nav">
                         <ul>
                             <li><a asp-action="Index" asp-controller="Home">Home</a></li>
-                            <li><a asp-action="albumStore" asp-controller="Home">Albums</a></li>
+                            <li><a asp-action="dvds" asp-controller="Home">DVDs</a></li>
                             <li><a asp-action="events" asp-controller="Home">Events</a></li>
                             <li><a asp-action="news" asp-controller="Home">News</a></li>
                             <li><a asp-action="contact" asp-controller="Home">Contact</a></li>
@@ -169,9 +185,7 @@
         </div>
     </footer>
     <!-- ##### Footer Area End ##### -->
-
     <!-- ##### All Javascript Script ##### -->
-
     <!-- jQuery-2.2.4 js -->
     <script src="~/UP-Assets/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
@@ -182,6 +196,12 @@
     <script src="~/UP-Assets/js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="~/UP-Assets/js/active.js"></script>
+    <script>
+        function loginAlert() {
+            alert("Please log in to add products to your cart.!");
+        }
+    </script>
+
 </body>
 
 </html>

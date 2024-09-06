@@ -15,5 +15,7 @@ public partial class Movie
 
     public string? MoviePicture { get; set; }
 
+    public string? MovieDescription { get; set; }
+
     public virtual Category? Category { get; set; }
 }

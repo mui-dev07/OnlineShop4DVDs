@@ -15,5 +15,7 @@ public partial class Game
 
     public string? GamePicture { get; set; }
 
+    public string? GameDescription { get; set; }
+
     public virtual Category? Category { get; set; }
 }

@@ -1,0 +1,77 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor access
+@model onlineShop4DVDs.Models.Product
+@{
+    ViewData["Title"] = "productDetails";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Page Header -->
+        <div class="col-12 my-5 px-4">
+            <h2 class="font-weight-bold mb-4 mt-5 pt-4">@Model.Title</h2>
+            <div style="font-size:14px;">
+                <a asp-action="Index" asp-controller="Home" class="text-secondary text-decoration-none">HOME</a>
+                <span class="text-secondary"> > </span>
+                <a asp-action="dvds" asp-controller="Home" class="text-secondary text-decoration-none">DVDs</a>
+            </div>
+        </div>
+
+        <!-- Product Image with Zoom Feature -->
+        <div class="col-lg-7 col-md-12 px-4">
+            <div class="zoom-container">
+                <img src="~/UP-Assets/img/bg-img/bg-2.jpg" class="zoom-img rounded" alt="Product Image">
+            </div>
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-lg-5 col-md-12 px-4">
+            <div class="card mb-4 border-0 shadow rounded-3">
+                <div class="card-body">
+                    <h4 class="mb-3">Price: $@Model.Price Per DVD</h4>
+
+                    <div class="mb-4 bg-white rounded p-3 shadow">
+                        <h4>Description</h4>
+                        <p>
+                            @Model.Description
+                        </p>
+
+                        <h4>Release date</h4>
+                        <p>
+                            @Model.ReleaseDate
+                        </p>
+                    </div>
+
+                    @if (@access.HttpContext.Session.GetString("UserName") != null)
+                    {
+
+                        <a asp-action="cart" asp-controller="Home" asp-route-id="@Model.ProductId" class="btn w-100 text-white btn-dark shadow-none mb-1">Add To Cart <i class="icon-shopping-cart"></i></a>
+                    }
+                    else{
+                    <a class="btn w-100 text-white btn-dark shadow-none mb-1"
+                       onclick="loginAlert()">
+                        Add to Cart <i class="icon-shopping-cart"></i>
+                    </a>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Description Section -->
+        @* <div class="col-12 px-4 mt-4">
+
+        <!-- Reviews Section -->
+        <div class="mb-4 bg-white rounded p-3 shadow">
+        <h4>Reviews and Ratings</h4>
+        <div class="mb-3">
+        <div class="profile d-flex align-items-center mb-3">
+        <img src="path/to/profile.jpg" class="rounded-circle" width="30px" alt="user profile">
+        <h6 class="m-0 ml-2">John Doe</h6>
+        </div>
+        <p class="mb-1">This is a sample review from a customer. The product was excellent, and I highly recommend it!</p>
+        </div>
+        <!-- Add more reviews -->
+        </div>
+        </div> *@
+    </div>
+</div>

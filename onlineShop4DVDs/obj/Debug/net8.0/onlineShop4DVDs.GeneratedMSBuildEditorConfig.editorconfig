@@ -17,103 +17,111 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = onlineShop4DVDs
 build_property.RootNamespace = onlineShop4DVDs
-build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\OnlineShop4DVDs\onlineShop4DVDs\
+build_property.ProjectDir = D:\GitHub\OnlineShop4DVDs\onlineShop4DVDs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\Documents\GitHub\OnlineShop4DVDs\onlineShop4DVDs
+build_property.MSBuildProjectDirectory = D:\GitHub\OnlineShop4DVDs\onlineShop4DVDs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Admin/Index.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/albumStore.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhbGJ1bVN0b3JlLmNzaHRtbA==
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/contact.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/elements.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/dvds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkdmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/elements.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlbGVtZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/events.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/events.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxldmVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/Index.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/news.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/news.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxuZXdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/Privacy.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/login.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Home/productDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/profile.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5ccHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/register.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5ccmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/UserProfile.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Login/UserProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlclByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/Error.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_AdminLayout.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_ContactPartialView.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_ContactPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0UGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_GamePartialView.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_GamePartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HYW1lUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_LAPartialView.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_LAPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MQVBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_Layout.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_MoviePartialView.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_MoviePartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb3ZpZVBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_MusicPartialView.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_MusicPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NdXNpY1BhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/_ViewImports.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/Documents/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/_ViewStart.cshtml]
+[D:/GitHub/OnlineShop4DVDs/onlineShop4DVDs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -15,5 +15,7 @@ public partial class Category
 
     public virtual ICollection<Movie> Movies { get; set; } = new List<Movie>();
 
+    public virtual ICollection<News> News { get; set; } = new List<News>();
+
     public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }

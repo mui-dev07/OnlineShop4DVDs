@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using onlineShop4DVDs.Models;
 using System.Diagnostics;
 
+
+
 namespace onlineShop4DVDs.Controllers
 {
     public class HomeController : Controller
@@ -20,14 +22,25 @@ namespace onlineShop4DVDs.Controllers
             this.context = context;
         }
 
+        private string TruncateDescription(string description, int wordLimit)
+        {
+            if (string.IsNullOrEmpty(description)) return description;
+
+            var words = description.Split(' ').Take(wordLimit);
+            return string.Join(" ", words) + (words.Count() < description.Split(' ').Length ? "..." : "");
+
+
+        }
+
+
         public async Task<IActionResult> Index()
         {
-            // Include the Category, Artist, Producer, and Songs in the Albums query
+
             var albums = await context.Albums
                 .Include(p => p.Artist)
                 .Include(p => p.Producer)
                 .Include(p => p.Songs)
-                .Include(p => p.Category)  // Include Category in the Albums query
+                .Include(p => p.Category)
                 .ToListAsync();
 
             // Fetch all Artists, Producers, and Songs
@@ -52,27 +65,82 @@ namespace onlineShop4DVDs.Controllers
                 ShopSong = songs,
                 ShopGame = games,
                 ShopMovie = movies
+
             };
+
 
             return View(viewModel);
         }
 
 
-        public IActionResult albumStore()
+        public IActionResult dvds()
         {
+            var model = new ShopModelView
+            {
+                ShopProduct = context.Products.Include(p => p.Category).ToList(),
+                ShopCategory = context.Categories.ToList()
+            };
+
+            return View(model);
+        }
+
+
+        public IActionResult ProductDetails(int id)
+        {
+            // Fetch product details, including related data such as category, movies, albums, songs, etc.
+            var product = context.Products
+                            .Include(p => p.Category)
+                            .Include(p => p.Category.Movies)
+                            .Include(p => p.Category.Games)
+                            .Include(p => p.Category.Albums)
+                                .ThenInclude(a => a.Songs)
+                            .Include(p => p.Category.Albums)
+                                .ThenInclude(a => a.Producer)
+                            .FirstOrDefault(p => p.ProductId == id);
+
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
+
+
+        public IActionResult Cart(int id)
+        {   
             return View();
         }
+
+
+
 
         public IActionResult events()
         {
             return View();
         }
 
-        public IActionResult news()
+        public async Task<IActionResult> News(int page = 1, int pageSize = 5)
         {
-            return View();
-        }
+            var newsList = await context.News
+                .Include(n => n.Category)
+                .OrderByDescending(n => n.PublishedAt)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
 
+            var totalNewsCount = await context.News.CountAsync();
+
+            var viewModel = new NewsViewModel
+            {
+                News = newsList,
+                CurrentPage = page,
+                PageSize = pageSize,
+                TotalNewsCount = totalNewsCount
+            };
+
+            return View(viewModel);
+        }
         public IActionResult contact()
         {
             return View();
@@ -92,6 +160,7 @@ namespace onlineShop4DVDs.Controllers
 
             return View(model);
         }
+
 
         public IActionResult elements()
         {

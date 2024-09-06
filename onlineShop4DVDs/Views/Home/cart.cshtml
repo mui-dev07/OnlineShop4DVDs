@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewData["Title"] = "cart";
+
+}
+
+<div class="container mt-100 mt-5 my-5">
+    <h2 class="text-center mb-4">Your Cart</h2>
+
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Image</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Total</th>
+                <th scope="col">Remove</th>
+            </tr>
+        </thead>
+        <tbody id="cart-items">
+            <tr data-product-id="1">
+                <td>
+                    <img src="https://via.placeholder.com/100" alt="Product Image" class="img-fluid" width="100">
+                </td>
+                <td>Product 1</td>
+                <td>This is the description for Product 1.</td>
+                <td class="price">$10.00</td>
+                <td>
+                    <input type="number" min="1" value="1" class="form-control text-center quantity">
+                </td>
+                <td class="item-total">$10.00</td>
+                <td>
+                    <button class="btn btn-danger remove-item">
+                        <i class="fas fa-trash-alt"></i> Remove
+                    </button>
+                </td>
+            </tr>
+            <tr data-product-id="2">
+                <td>
+                    <img src="https://via.placeholder.com/100" alt="Product Image" class="img-fluid" width="100">
+                </td>
+                <td>Product 2</td>
+                <td>This is the description for Product 2.</td>
+                <td class="price">$20.00</td>
+                <td>
+                    <input type="number" min="1" value="2" class="form-control text-center quantity">
+                </td>
+                <td class="item-total">$40.00</td>
+                <td>
+                    <button class="btn btn-danger remove-item">
+                        <i class="fas fa-trash-alt"></i> Remove
+                    </button>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5" class="text-right"><strong>Total:</strong></td>
+                <td colspan="2"><strong id="cart-total">$50.00</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="text-right">
+        <button class="btn btn-outline-dark">Proceed to Checkout</button>
+    </div>
+</div>

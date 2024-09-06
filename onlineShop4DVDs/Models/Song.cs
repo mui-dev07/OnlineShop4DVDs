@@ -15,5 +15,7 @@ public partial class Song
 
     public string? SongPicture { get; set; }
 
+    public string? SongBg { get; set; }
+
     public virtual Album? Album { get; set; }
 }

@@ -29,6 +29,8 @@ public partial class Shop4DvdsContext : DbContext
 
     public virtual DbSet<Movie> Movies { get; set; }
 
+    public virtual DbSet<News> News { get; set; }
+
     public virtual DbSet<Order> Orders { get; set; }
 
     public virtual DbSet<OrderItem> OrderItems { get; set; }
@@ -49,7 +51,7 @@ public partial class Shop4DvdsContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("server=DESKTOP-48FQ85S\\SQLEXPRESS; database=Shop4DVDs; trusted_connection=true;trustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-48FQ85S\\SQLEXPRESS;Database=Shop4DVDs;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -60,6 +62,10 @@ public partial class Shop4DvdsContext : DbContext
             entity.ToTable("Album");
 
             entity.Property(e => e.AlbumId).HasColumnName("AlbumID");
+            entity.Property(e => e.AlbumBg)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("AlbumBG");
             entity.Property(e => e.AlbumPicture)
                 .HasMaxLength(100)
                 .IsUnicode(false);
@@ -139,6 +145,7 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.GameId).HasColumnName("GameID");
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.GameDescription).HasColumnType("text");
             entity.Property(e => e.GamePicture)
                 .HasMaxLength(100)
                 .IsUnicode(false);
@@ -159,6 +166,7 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.MovieId).HasColumnName("MovieID");
             entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.MovieDescription).HasColumnType("text");
             entity.Property(e => e.MoviePicture)
                 .HasMaxLength(100)
                 .IsUnicode(false);
@@ -169,6 +177,30 @@ public partial class Shop4DvdsContext : DbContext
             entity.HasOne(d => d.Category).WithMany(p => p.Movies)
                 .HasForeignKey(d => d.CategoryId)
                 .HasConstraintName("FK__Movie__CategoryI__6754599E");
+        });
+
+        modelBuilder.Entity<News>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__News__3214EC073FFA291F");
+
+            entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.Content)
+                .HasMaxLength(255)
+                .IsUnicode(false);
+            entity.Property(e => e.NewsPicture)
+                .HasMaxLength(255)
+                .IsUnicode(false);
+            entity.Property(e => e.PublishedAt)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("published_at");
+            entity.Property(e => e.Title)
+                .HasMaxLength(255)
+                .IsUnicode(false);
+
+            entity.HasOne(d => d.Category).WithMany(p => p.News)
+                .HasForeignKey(d => d.CategoryId)
+                .HasConstraintName("FK__News__published___2645B050");
         });
 
         modelBuilder.Entity<Order>(entity =>
@@ -282,6 +314,10 @@ public partial class Shop4DvdsContext : DbContext
 
             entity.Property(e => e.SongId).HasColumnName("SongID");
             entity.Property(e => e.AlbumId).HasColumnName("AlbumID");
+            entity.Property(e => e.SongBg)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("SongBG");
             entity.Property(e => e.SongPicture)
                 .HasMaxLength(100)
                 .IsUnicode(false);

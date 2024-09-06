@@ -1,4 +1,4 @@
-﻿
+﻿@model NewsViewModel
 @{
     ViewData["Title"] = "news";
 }
@@ -16,100 +16,55 @@
 <div class="blog-area section-padding-100">
     <div class="container">
         <div class="row">
+
             <div class="col-12 col-lg-9">
+                
+                @foreach (var news in Model.News)
+                {
+                    <!-- Single Post Start -->
+                    <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <!-- Post Thumb -->
+                        <div class="blog-post-thumb mt-30">
+                            <a href="#"><img src="~/UP-Assets/img/bg-img/blog1.jpg" alt=""></a>
+                            <!-- Post Date -->
+                            <div class="post-date">
+                                <span>@news.Id</span>
+                                <span>@news.Category.CategoryName</span> <!-- Fetch category name -->
+                            </div>
+                        </div>
 
-                <!-- Single Post Start -->
-                <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
-                    <!-- Post Thumb -->
-                    <div class="blog-post-thumb mt-30">
-                        <a href="#"><img src="~/UP-Assets/img/bg-img/blog1.jpg" alt=""></a>
-                        <!-- Post Date -->
-                        <div class="post-date">
-                            <span>15</span>
-                            <span>June ‘18</span>
+                        <!-- Blog Content -->
+                        <div class="blog-content">
+                            <!-- Post Title -->
+                            <a href="#" class="post-title">@news.Title</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta d-flex mb-30">
+                                <p class="post-author">By<a href="#"> Admin</a></p>
+                                <p class="tags">in<a href="#"> @news.PublishedAt?.ToString("dd MMM yyyy")</a></p>
+                            </div>
+                            <!-- Post Excerpt -->
+                            <p>@news.Content</p>
                         </div>
                     </div>
-
-                    <!-- Blog Content -->
-                    <div class="blog-content">
-                        <!-- Post Title -->
-                        <a href="#" class="post-title">5 Festivals you shouldn’t miss this summer</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta d-flex mb-30">
-                            <p class="post-author">By<a href="#"> Admin</a></p>
-                            <p class="tags">in<a href="#"> Events</a></p>
-                            <p class="tags"><a href="#">2 Comments</a></p>
-                        </div>
-                        <!-- Post Excerpt -->
-                        <p>Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis. Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis.</p>
-                    </div>
-                </div>
-
-                <!-- Single Post Start -->
-                <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
-                    <!-- Post Thumb -->
-                    <div class="blog-post-thumb mt-30">
-                        <a href="#"><img src="~/UP-Assets/img/bg-img/blog2.jpg" alt=""></a>
-                        <!-- Post Date -->
-                        <div class="post-date">
-                            <span>15</span>
-                            <span>June ‘18</span>
-                        </div>
-                    </div>
-
-                    <!-- Blog Content -->
-                    <div class="blog-content">
-                        <!-- Post Title -->
-                        <a href="#" class="post-title">5 Festivals you shouldn’t miss this summer</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta d-flex mb-30">
-                            <p class="post-author">By<a href="#"> Admin</a></p>
-                            <p class="tags">in<a href="#"> Events</a></p>
-                            <p class="tags"><a href="#">2 Comments</a></p>
-                        </div>
-                        <!-- Post Excerpt -->
-                        <p>Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis. Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis.</p>
-                    </div>
-                </div>
-
-                <!-- Single Post Start -->
-                <div class="single-blog-post mb-100 wow fadeInUp" data-wow-delay="100ms">
-                    <!-- Post Thumb -->
-                    <div class="blog-post-thumb mt-30">
-                        <a href="#"><img src="~/UP-Assets/img/bg-img/blog3.jpg" alt=""></a>
-                        <!-- Post Date -->
-                        <div class="post-date">
-                            <span>15</span>
-                            <span>June ‘18</span>
-                        </div>
-                    </div>
-
-                    <!-- Blog Content -->
-                    <div class="blog-content">
-                        <!-- Post Title -->
-                        <a href="#" class="post-title">5 Festivals you shouldn’t miss this summer</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta d-flex mb-30">
-                            <p class="post-author">By<a href="#"> Admin</a></p>
-                            <p class="tags">in<a href="#"> Events</a></p>
-                            <p class="tags"><a href="#">2 Comments</a></p>
-                        </div>
-                        <!-- Post Excerpt -->
-                        <p>Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis. Pellentesque sit amet velit a libero viverra porta non eu justo. Vivamus mollis metus sem, ac sodales dui lobortis.</p>
-                    </div>
-                </div>
+                }
 
                 <!-- Pagination -->
                 <div class="oneMusic-pagination-area wow fadeInUp" data-wow-delay="300ms">
                     <nav>
                         <ul class="pagination">
-                            <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                            <li class="page-item"><a class="page-link" href="#">02</a></li>
-                            <li class="page-item"><a class="page-link" href="#">03</a></li>
+                            @for (int i = 1; i <= Model.TotalPages; i++)
+                            {
+                                <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                                    <a class="page-link" href="@Url.Action("News", new { page = i })">@i</a>
+                                </li>
+                            }
                         </ul>
                     </nav>
                 </div>
             </div>
+
+                         
+
 
             <div class="col-12 col-lg-3">
                 <div class="blog-sidebar-area">
@@ -181,4 +136,3 @@
     </div>
 </div>
 <!-- ##### Blog Area End ##### -->
-
